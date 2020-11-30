@@ -1,0 +1,13 @@
+# pycharm config
+.idea
+
+# ignore the result of calculation
+resources/*
+
+
+# demo code
+# *.pyc
+# .idea/
+# syj_local_test.py
+# resources/*.pkl
+# algorithm/result/
